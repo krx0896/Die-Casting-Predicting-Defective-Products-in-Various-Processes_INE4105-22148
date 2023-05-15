@@ -3,7 +3,7 @@
 
 # Intro 
 ### Course
-</br>
+산업 인공지능(INE4105-22148) </br>
 ### 🗓️ Date 
 Project term : 2023.05.17 ~ 2023.06.13 </br>
 Presentation Date : 2023.06.14 </br>
