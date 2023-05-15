@@ -2,6 +2,8 @@
 ### 실무 다이캐스팅 공장 전체 iot 데이터를 활용한 데이터 분석 및 불량 예측 모델 개발(아직 진행중)
 
 # Intro 
+### Course
+</br>
 ### 🗓️ Date 
 Project term : 2023.05.17 ~ 2023.06.13 </br>
 Presentation Date : 2023.06.14 </br>
