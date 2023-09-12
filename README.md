@@ -63,9 +63,16 @@ D.	데이터 처리 및 모델링 과정
 
 ## 2.	Results 
 
-## 3.	How to run 
-
-## 4. References
+## 3. References
+논문
+-   이기성; 이종찬. “사출 공정에서 불량 예측을 위한 데이터 분석 및 AI 적용 모델”. 
+한국산학기술학회 논문지, 2022, 23.12: 1001-1008.
+-   이창호; 최재권; 남태운. 수치해석에 의한 고압다이캐스팅용 금형설계 및 
+주조공정해석. 한국주조공학회지 (주조), 2000, 20.6: 400-406.
+-   이주연. 다이캐스팅 공정 지능화를 위한 데이터 수집, 처리, 분석 및 활용 기술 
+개발. 한국생산제조학회지, 2020, 29.6: 441-448.
+-     KLOBČAR, Damjan; TUŠEK, Janez; TALJAT, Boštjan. Thermal fatigue of materials for die-casting 
+tooling. Materials Science and Engineering: A, 2008, 472.1-2: 198-207.
 
 
 # 한계점
